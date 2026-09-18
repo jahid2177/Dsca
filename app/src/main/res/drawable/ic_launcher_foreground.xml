@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="0"
+        android:translateY="0">
+        <!-- Document Sheet Background Shadow -->
+        <path
+            android:fillColor="#15000000"
+            android:pathData="M34,26 L66,26 L76,36 L76,82 C76,84.2 74.2,86 72,86 L34,86 C31.8,86 30,84.2 30,82 L30,30 C30,27.8 31.8,26 34,26 Z" />
+        <!-- Document Sheet Main White -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M32,24 L64,24 L74,34 L74,80 C74,82.2 72.2,84 70,84 L32,84 C29.8,84 28,82.2 28,80 L28,28 C28,25.8 29.8,24 32,24 Z" />
+        <!-- Document Fold Corner -->
+        <path
+            android:fillColor="#CCECE6"
+            android:pathData="M64,24 L74,34 L66,34 C64.9,34 64,33.1 64,32 L64,24 Z" />
+        <!-- Document Text Lines -->
+        <path
+            android:fillColor="#0D9488"
+            android:pathData="M36,42 L66,42 A2,2 0 0,1 66,46 L36,46 A2,2 0 0,1 36,42 Z
+                             M36,52 L60,52 A2,2 0 0,1 60,56 L36,56 A2,2 0 0,1 36,52 Z
+                             M36,62 L52,62 A2,2 0 0,1 52,66 L36,66 A2,2 0 0,1 36,62 Z" />
+        <!-- Scanner Glowing Laser Bar -->
+        <path
+            android:fillColor="#10B981"
+            android:pathData="M22,48 L86,48 L86,52 L22,52 Z" />
+        <!-- Scanner Corner Crop Brackets -->
+        <path
+            android:fillColor="#34D399"
+            android:pathData="M24,20 L36,20 L36,24 L28,24 L28,32 L24,32 Z
+                             M84,20 L72,20 L72,24 L80,24 L80,32 L84,32 Z
+                             M24,88 L36,88 L36,84 L28,84 L28,76 L24,76 Z
+                             M84,88 L72,88 L72,84 L80,84 L80,76 L84,76 Z" />
+    </group>
+</vector>
